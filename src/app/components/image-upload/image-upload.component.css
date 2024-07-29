@@ -1,0 +1,18 @@
+.preview {
+    max-width: 200px;
+}
+
+.img-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+}
+
+.img-container img {
+    width: 50%;
+    padding-left: 10px;
+}
+
+.img-container p {
+    padding: 5px;
+}
